@@ -3,8 +3,8 @@
   </head>
   <body>
     <h1>ToDo List App</h1>
-    <p>This is a simple ToDo app built with Vanilla.js that allows you to keep track of tasks that needs to be done. The app is deployed to Netlify and can be accessed via this <a href="https://jesstodoapp.netlify.app/">link</a>.</p>
-    <pre>https://jesstodoapp.netlify.app/</pre>
+    <p>This is a simple ToDo app built with Vanilla.js that allows you to keep track of tasks that needs to be done. The app is deployed to Netlify and can be accessed via this <a href="https://jessie-chuks.github.io/Todo-list/">link</a>.</p>
+    <pre>https://jessie-chuks.github.io/Todo-list/</pre>
     <h2>Features</h2>
     <ul>
       <li>Add tasks to the list</li>
